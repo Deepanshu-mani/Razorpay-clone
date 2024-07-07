@@ -1,7 +1,8 @@
 <img width="1709" alt="Screenshot 2024-07-07 at 3 57 51 PM" src="https://github.com/Deepanshu-mani/Razorpay-clone/assets/144232598/74418afc-a4c9-45e2-9456-c126c7ae37a9">
 ## Live Demo
 
-Check out the live demo: [Razorpay Clone]([https://razorpay-clone-five-mu.vercel.app/])
+Check out the live demo: [Razorpay Clone](https://razorpay-clone-five-mu.vercel.app/)
+
 
 # Razorpay Clone Front Page
 
